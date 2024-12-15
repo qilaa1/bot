@@ -300,7 +300,7 @@ def monitor_and_reply(driver, video_url, tokenizer, model):
 
 def run_bot():
     """Run the TikTok bot."""
-    video_url = "https://www.tiktok.com/@shappicgurl/video/7447601666079100166"
+    video_url = "https://www.tiktok.com/@yiyayuuu/video/7402587657584315653"
 
     # Load tokenizer and model for BERT
     tokenizer = BertTokenizer.from_pretrained("bert-base-uncased")
